@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.szabgab.mobile"
+    id        = "com.htandra.mobile"
     versionCode="5"
     version   = "0.0.5">
   <name>Mobile Examples</name>
@@ -9,7 +9,7 @@
     Mobile Application Examples
   </description>
 
-  <author href="http://szabgab.com" email="szabgab@gmail.com">
+  <author href="http://gloriad.org" email="htandra@gloriad.org">
     Gabor Szabo
   </author>
 
